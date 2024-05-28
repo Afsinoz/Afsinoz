@@ -24,6 +24,6 @@ I am currently working on [RAG_LLM_Reddit](https://github.com/Afsinoz/RAG_LLM_Re
 
 - Image improvement with proximal operator and wavelet transform, [prox-wavelet](https://github.com/Afsinoz/OceanImage)
 
-I am constantly learning new topics and am obtaining [IBM DevOps and Sofware Engineering Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering?). 
+I am constantly learning new topics,  am obtaining [IBM DevOps and Sofware Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering?). 
 
 I also appreciate the online learning communities like [skilstak](https://skilstak.io/), [ThePrimeagen](https://www.youtube.com/@ThePrimeagen). 
