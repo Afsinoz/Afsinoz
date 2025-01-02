@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Afşın (afʃɯn, afshɯn, Afshin, Afsin and etc. Hard to pronounce right?), I am interested in Machine learning and Deep learning (It is a bit general but meh). Here is my [website](https://afsinoz.github.io/), if you want to get more information. 
+I am Afşın (afʃɯn, afshɯn, Afshin, Afsin, etc. Hard to pronounce right?). I defined myself as a data scientist/engineer focusing on backend engineering. Also, I am interested in machine learning and deep learning (Which is a bit general, but meh). Here is my [website](https://afsinoz.github.io/) (Not updated for a long time:D), if you want to get more information. Here are some data science-related projects, 
 
-I am currently working on creating a prediction model for dissolved oxygen levels in the Ocean with [NewAtlantis](https://www.newatlantis.io/), not been completed yet but if you want to check here is the [link](https://github.com/new-atlantis-labs/na-erdos-fellows-monorepo). But I worked on different projects, 
+- Prediction models for dissolved oxygen levels in the Ocean with [NewAtlantis](https://www.newatlantis.io/), if you want to check here is the [link](https://github.com/new-atlantis-labs/na-erdos-fellows-monorepo).
 
-- Create an LLMs pipeline with open Reddit data, to answer your questions by only posting on Reddit, [RAG_LLM_Reddit](https://github.com/Afsinoz/RAG_LLM_Reddit). 
+- Created an LLMs pipeline with open Reddit data, to answer your questions by only posting on Reddit, [RAG_LLM_Reddit](https://github.com/Afsinoz/RAG_LLM_Reddit). 
 
 - [Music Genre Classification](https://github.com/AzizABG/music-genre-classification)
 
@@ -27,6 +27,8 @@ I am currently working on creating a prediction model for dissolved oxygen level
 
 - Image improvement with proximal operator and wavelet transform, [prox-wavelet](https://github.com/Afsinoz/OceanImage)
 
-I am constantly learning new topics, and am obtaining [IBM DevOps and Sofware Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering?). 
+~~I am constantly learning new topics, and am obtaining [IBM DevOps and Sofware Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering?).~~
+
+I abandoned IBM DevOps certification because it is mostly AI-read text, that doesn't teach you, you just force yourself to listen to it for long hours. If you want to learn programming (and backend in general) go and check [boot.dev](boot.dev), which is a great platform to learn about this stuff. Also, I am in the community, no they don't pay me (yet). 
 
 I also appreciate the online learning communities like [skilstak](https://skilstak.io/), and [ThePrimeagen](https://www.youtube.com/@ThePrimeagen). 
