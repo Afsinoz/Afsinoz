@@ -32,3 +32,6 @@ I am Afşın (afʃɯn, afshɯn, Afshin, Afsin, etc. Hard to pronounce right?). I
 I abandoned IBM DevOps certification because it is mostly AI-read text, that doesn't teach you, you just force yourself to listen to it for long hours. If you want to learn programming (and backend in general) go and check [boot.dev](boot.dev), which is a great platform to learn about this stuff. Also, I am in the community, no they don't pay me (yet). 
 
 I also appreciate the online learning communities like [skilstak](https://skilstak.io/), and [ThePrimeagen](https://www.youtube.com/@ThePrimeagen). 
+
+Also, check my current small project(/s), 
+- [pokedexcli](https://github.com/Afsinoz/pokedexcli), not my idea but I am personalizing it. 
