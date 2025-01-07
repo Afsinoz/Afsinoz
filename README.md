@@ -25,7 +25,7 @@ I am Afşın (afʃɯn, afshɯn, Afshin, Afsin, etc. Hard to pronounce right?). I
 
 - Interpolation of partially observed sea surface (height value), [OceanImage](https://github.com/Afsinoz/OceanImage)
 
-- Image improvement with proximal operator and wavelet transform, [prox-wavelet](https://github.com/Afsinoz/OceanImage)
+- Image improvement with proximal operator and wavelet transform, [prox-wavelet](https://github.com/Afsinoz/prox-wavelet)
 
 ~~I am constantly learning new topics, and am obtaining [IBM DevOps and Sofware Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering?).~~
 
