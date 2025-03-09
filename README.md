@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Afşın (afʃɯn, afshɯn, Afshin, Afsin, etc. Hard to pronounce, right?). I defined myself as a data scientist/engineer focusing on backend engineering. Also, I am interested in machine learning and deep learning (Which is a bit general, but meh). Here is my [website](https://afsinoz.github.io/) (Not updated for a long time :D) if you want to get more information. If you want to learn about my project by talking with my AI assistant, check (Me but a Chatbot)[afsinoz.com/chatbot]
+I am Afşın (afʃɯn, afshɯn, Afshin, Afsin, etc. Hard to pronounce, right?). I defined myself as a data scientist/engineer focusing on backend engineering. Also, I am interested in machine learning and deep learning (Which is a bit general, but meh). Here is my [website](https://afsinoz.github.io/) (Not updated for a long time :D) if you want to get more information. If you want to learn about my project by talking with my AI assistant, check [Me but a Chatbot](afsinoz.com/chatbot)
 
 ## Data Science Focused Projects
 
